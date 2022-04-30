@@ -1,9 +1,6 @@
 # Mosh Hamedani's My-SQL course notes:
 These are my course notes I took while doing Mosh Hamedani's My-SQL course. A youtube link for free part of his course is as follows:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7S_tz1z_5bA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 [![Mosh's Free part of MySQL course](http://img.youtube.com/vi/7S_tz1z_5bA/0.jpg)](http://www.youtube.com/watch?v=7S_tz1z_5bA "Mosh's MySQL course (free part only)")
 
 ## Notes Index:
