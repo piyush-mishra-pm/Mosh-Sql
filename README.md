@@ -4,6 +4,8 @@ These are my course notes I took while doing Mosh Hamedani's My-SQL course. A yo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7S_tz1z_5bA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+[![Mosh's Free part of MySQL course](http://img.youtube.com/vi/7S_tz1z_5bA/0.jpg)](http://www.youtube.com/watch?v=7S_tz1z_5bA "Mosh's MySQL course (free part only)")
+
 ## Notes Index:
 1. [Retrieving data from Single Table](1.%20Retrieving%20data%20from%20Single%20Table/1.%20Retrieving%20data%20from%20Single%20Table.md)
 2. [Retrieving data from Multiple Tables](2.%20Retrieving%20data%20from%20Multiple%20Tables/2.%20Retrieving%20data%20from%20Multiple%20Tables.md)
